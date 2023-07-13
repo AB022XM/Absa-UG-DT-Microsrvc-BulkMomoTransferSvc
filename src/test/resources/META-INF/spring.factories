@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+ug.co.absa.microsrvc.momo.bulk.config.KafkaTestContainersSpringContextCustomizerFactory,\
+ug.co.absa.microsrvc.momo.bulk.config.SqlTestContainersSpringContextCustomizerFactory,\
+ug.co.absa.microsrvc.momo.bulk.config.TestContainersSpringContextCustomizerFactory
